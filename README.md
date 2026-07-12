@@ -5,3 +5,6 @@
 
 - **Prompt Board** – A Pinterest-style platform for discovering, saving, and organizing creative prompts.  
   https://promptboard.zero1studio.xyz
+
+- **OpnenBg** – A free, open source, web app to remove image backgrounds — entirely in the browser. No servers, no uploads: your images never leave your device..  
+  https://openbg.lok1.dev
