@@ -9,5 +9,5 @@
 - **OpnenBg** – https://openbg.lok1.dev
   A free, open source, web app to remove image backgrounds — entirely in the browser. No servers, no uploads: your images never leave your device.
 
-- **Attack on Zombies** – https://attackonzombies.lok1.dev
+- **Highway Z** – https://highwayz.lok1.dev
   A free online zombie shooting game. Drive an armed car down an endless highway.
