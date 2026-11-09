@@ -3,6 +3,9 @@
 - **https://designeng.tools**  
   A curated collection of inspiration, tools, resources, UI references, branding, and creators for design engineers — all in one place.
 
+- **https://oxyn.space**  
+  Animated loaders component library for AI loading states.
+
 - **https://highwayz.lok1.dev**  
   A free online zombie shooting game where you drive an armed car down an endless highway.
 
@@ -14,3 +17,4 @@
 
 - **https://pixelflowui.lok1.dev**  
   A modern, reusable component library for building fast and beautiful user interfaces.
+  
