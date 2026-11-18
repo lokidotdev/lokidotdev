@@ -1,7 +1,7 @@
 ## Building
 
 - **https://designeng.tools**  
-  A curated collection of inspiration, tools, resources, UI references, branding, and creators for design engineers — all in one place.
+  A curated collection of inspiration, tools, resources, UI references, branding, and creators for design engineers.
 
 - **https://wobli.space**  
   Animated isometric illustrations.
