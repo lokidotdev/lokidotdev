@@ -3,6 +3,9 @@
 - **https://designeng.tools**  
   A curated collection of inspiration, tools, resources, UI references, branding, and creators for design engineers — all in one place.
 
+- **https://wobli.space**  
+  Animated isometric illustrations.
+  
 - **https://oxyn.space**  
   Animated loaders component library for AI loading states.
 
